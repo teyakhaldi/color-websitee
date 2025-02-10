@@ -66,6 +66,7 @@
             document.getElementById("colorCode").innerText = لونك: ${color};
         }
     </script>
-
+<div id="colorBox" style="width: 200px; height: 200px; margin: 20px auto; display: none; border-radius: 10px;"></div>
+<p id="colorCode"></p>
 </body>
 </html>
